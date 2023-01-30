@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rozgonyilaszlo
-- 👀 I’m interested in .Net development
-- 🌱 I’m currently learning Angular and Python
 - 📫 How to reach me:
   - rozgonyi97@gmail.com
   - https://www.linkedin.com/in/rozgonyilaszlo/
