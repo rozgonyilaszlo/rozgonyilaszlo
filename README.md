@@ -5,7 +5,6 @@
   - rozgonyi97@gmail.com
   - https://www.linkedin.com/in/rozgonyilaszlo/
   - http://rozgonyilaszlo.hu/
-  - https://leetcode.com/rozgonyi/
 
 <!---
 rozgonyilaszlo/rozgonyilaszlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
